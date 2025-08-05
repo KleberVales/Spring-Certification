@@ -12,3 +12,12 @@ O candidato ideal tem entre **6 a 12 meses de experiência** com a framework Spr
 - Testes, segurança e AOP
 
 ## 📚 Estrutura do Exame
+
+| Área | Tópicos Principais |
+|------|--------------------|
+| **1. Spring Core** | Beans, Profiles, SpEL, Ciclo de vida, AOP |
+| **2. Data Management** | JDBC, transações, Spring Data JPA |
+| **3. Spring MVC** | Desenvolvimento Web e REST APIs |
+| **4. Testing** | JUnit 5, Testes de integração, MockMVC |
+| **5. Security** | Conceitos básicos, autenticação/autorização, segurança por métodos |
+| **6. Spring Boot** | Autoconfiguração, propriedades, Actuator, métricas |
