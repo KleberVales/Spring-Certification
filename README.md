@@ -5,3 +5,8 @@ Este repositório reúne os tópicos abordados no exame **2V0-72.22**, com foco 
 ## 🧠 Perfil do Candidato
 
 O candidato ideal tem entre **6 a 12 meses de experiência** com a framework Spring, compreende seus principais módulos e sabe aplicar conceitos como:
+
+- Configuração com Spring Boot
+- Desenvolvimento de APIs REST
+- Acesso a dados com Spring Data e JDBC
+- Testes, segurança e AOP
