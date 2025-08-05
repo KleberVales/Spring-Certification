@@ -61,4 +61,10 @@ O candidato ideal tem entre **6 a 12 meses de experiência** com a framework Spr
 
 ## 🎓 Recursos Sugeridos
 
+- **Spring Framework Essentials**
+- **Spring Boot Learning Path**
+- **Spring Documentation (5.3)**
+- **Spring Boot 2.5 Guides**
+- Repositórios oficiais e livros recomendados
+
 
