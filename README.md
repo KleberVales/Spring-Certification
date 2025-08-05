@@ -43,4 +43,6 @@ O candidato ideal tem entre **6 a 12 meses de experiência** com a framework Spr
 - RestTemplate
 - Ciclo de processamento de requisições
 
+### 4. Testing
+
 
