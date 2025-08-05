@@ -21,3 +21,5 @@ O candidato ideal tem entre **6 a 12 meses de experiência** com a framework Spr
 | **4. Testing** | JUnit 5, Testes de integração, MockMVC |
 | **5. Security** | Conceitos básicos, autenticação/autorização, segurança por métodos |
 | **6. Spring Boot** | Autoconfiguração, propriedades, Actuator, métricas |
+
+## 🔍 Tópicos Detalhados
