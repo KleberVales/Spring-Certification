@@ -10,3 +10,5 @@ O candidato ideal tem entre **6 a 12 meses de experiência** com a framework Spr
 - Desenvolvimento de APIs REST
 - Acesso a dados com Spring Data e JDBC
 - Testes, segurança e AOP
+
+## 📚 Estrutura do Exame
