@@ -30,3 +30,5 @@ O candidato ideal tem entre **6 a 12 meses de experiência** com a framework Spr
 - Escopo de Beans e Profiles
 - Ciclo de vida e pós-processadores
 - AOP: Pointcuts, Advices e proxies
+
+### 2. Data Management
