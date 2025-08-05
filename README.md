@@ -36,3 +36,11 @@ O candidato ideal tem entre **6 a 12 meses de experiência** com a framework Spr
 - JdbcTemplate e exceções
 - Gerenciamento de transações
 - Spring Data JPA e repositórios
+
+### 3. Spring MVC
+
+- Controllers RESTful com Spring Boot
+- RestTemplate
+- Ciclo de processamento de requisições
+
+
