@@ -74,4 +74,12 @@ Este material tem como objetivo consolidar os pontos essenciais da prova e servi
 
 Sinta-se à vontade para contribuir com exemplos de código, resumos pessoais ou links úteis!
 
+**Kleber Vales**  
+
+*Back-end Software Engineer*  
+Java + Spring Boot | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate  
+
+Bacharel em Ciência da Computação  
+MBA em Desenvolvimento de Software (Cursando)
+
 
