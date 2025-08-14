@@ -26,10 +26,11 @@ O candidato ideal tem entre **6 a 12 meses de experiência** com a framework Spr
 
 ### 1. Spring Core
 
-- Configuração Java e anotada
-- Escopo de Beans e Profiles
-- Ciclo de vida e pós-processadores
-- AOP: Pointcuts, Advices e proxies
+- Introdution Spring Framework
+- Java configuration
+- Properties and profile
+- Annotation based
+- Bean lifecycle
 
 ### 2. Data Management
 
