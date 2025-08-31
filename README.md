@@ -50,8 +50,7 @@ O candidato ideal tem entre **6 a 12 meses de experiência** com a framework Spr
 
 ### 5. Security
 
-- Spring Security para autenticação/autorização
-- Segurança em métodos (@Secured, @PreAuthorize)
+- Explain basic security concepts
 
 ### 6. Spring Boot
 
