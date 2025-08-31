@@ -68,9 +68,6 @@ O candidato ideal tem entre **6 a 12 meses de experiência** com a framework Spr
 - **Spring Boot 2.5 Guides**
 - Repositórios oficiais e livros recomendados
 
-## ✨ Sobre
-Este material tem como objetivo consolidar os pontos essenciais da prova e servir de apoio para revisões, práticas e aprofundamento.
-
 ---
 
 Sinta-se à vontade para contribuir com exemplos de código, resumos pessoais ou links úteis!
