@@ -56,8 +56,7 @@ O candidato ideal tem entre **6 a 12 meses de experiência** com a framework Spr
 
 ### 6. Spring Boot
 
-- Autoconfiguração e propriedades
-- Actuator: métricas e endpoints customizados
+- Spring Boot Feature Introduction 
 
 ## 🎓 Recursos Sugeridos
 
