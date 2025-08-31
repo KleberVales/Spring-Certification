@@ -40,9 +40,7 @@ O candidato ideal tem entre **6 a 12 meses de experiência** com a framework Spr
 
 ### 3. Spring MVC
 
-- Controllers RESTful com Spring Boot
-- RestTemplate
-- Ciclo de processamento de requisições
+- Web Applications with Spring Boot
 
 ### 4. Testing
 
